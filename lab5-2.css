@@ -1,0 +1,113 @@
+body{
+    background-color: gray;
+}
+.birinci{
+    position: absolute;
+    top: 15px;
+    left: 300px;
+    width: 190px;
+    height: 150px;
+    background-color: white;;
+}
+.ikinci{
+    position: absolute;
+    top: 15px;
+    left: 505px;
+    width: 190px;
+    height: 150px;
+    background-color: white;
+}
+.ucuncu{
+    position: absolute;
+    top: 15px;
+    left: 710px;
+    width: 190px;
+    height: 150px;
+    background-color: white;
+}
+.dorduncu{
+    position: absolute;
+    top: 180px;
+    left: 300px;
+    width: 190px;
+    height: 150px;
+    background-color: white;
+}
+.besinci{
+    position: absolute;
+    top: 180px;
+    left: 505px;
+    width: 190px;
+    height: 150px;
+    background-color: white;
+}
+.altinci{
+    position: absolute;
+    top: 180px;
+    left: 710px;
+    width: 190px;
+    height: 150px;
+    background-color: white;
+}
+.birinci img{
+    padding: 5px;
+    width: 180px;
+
+}
+.ikinci img{
+    padding: 5px;
+    width: 180px;
+
+}
+.ucuncu img{
+    padding: 5px;
+    width: 180px;
+
+}
+.dorduncu img{
+    padding: 5px;
+    width: 180px;
+
+}
+.besinci img{
+    padding: 5px;
+    width: 180px;
+
+}
+.altinci img{
+    padding: 5px;
+    width: 180px;
+
+}
+.birinci p{
+    background-color: red;
+    width: 40px;
+    position: relative;
+
+}
+.ikinci p{
+    background-color: red;
+    width: 40px;
+    position: relative;
+    
+}
+.ucuncu p{
+    background-color: red;
+    width: 40px;
+    
+}
+.dorduncu p{
+    background-color: red;
+    width: 40px;
+    
+}
+.besinci p{
+    background-color: red;
+    width: 40px;
+    
+}
+.altinci p{
+    background-color: red;
+    width: 40px;
+    
+}
