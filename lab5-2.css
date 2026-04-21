@@ -79,35 +79,58 @@ body{
     width: 180px;
 
 }
-.birinci p{
+.birinci button{
+    color: white;
+    position: absolute;
+    bottom: 27px;
+    right: 7px;
     background-color: red;
-    width: 40px;
-    position: relative;
+    margin: 0;
+    padding: 2px 4px;
 
 }
-.ikinci p{
+.ikinci button{
+    color: white;
+    position: absolute;
+    bottom: 27px;
+    right: 7px;
     background-color: red;
-    width: 40px;
-    position: relative;
-    
+    margin: 0;
+    padding: 2px 4px;
 }
-.ucuncu p{
+.ucuncu button{
+    color: white;
+    position: absolute;
+    bottom: 27px;
+    right: 7px;
     background-color: red;
-    width: 40px;
-    
+    margin: 0;
+    padding: 2px 4px;
 }
-.dorduncu p{
+.dorduncu button{
+    color: white;
+    position: absolute;
+    bottom: 27px;
+    right: 7px;
     background-color: red;
-    width: 40px;
-    
+    margin: 0;
+    padding: 2px 4px;
 }
-.besinci p{
+.besinci button{
+    color: white;
+    position: absolute;
+    bottom: 27px;
+    right: 7px;
     background-color: red;
-    width: 40px;
-    
+    margin: 0;
+    padding: 2px 4px;
 }
-.altinci p{
+.altinci button{
+    color: white;
+    position: absolute;
+    bottom: 27px;
+    right: 7px;
     background-color: red;
-    width: 40px;
-    
+    margin: 0;
+    padding: 2px 4px;
 }
